@@ -1,0 +1,24 @@
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  keyboard:
+    specifier: ^0.0.1
+    version: 0.0.1
+  python:
+    specifier: ^0.0.4
+    version: 0.0.4
+
+packages:
+
+  /keyboard@0.0.1:
+    resolution: {integrity: sha512-fFNACWzGtlcOFcdAxvIrNAF/kvNNt3ZDC8rRnS395xWK5/qtMC/YTczdPC1vpK0j9QebMQLfJzww4AXtN2e14Q==}
+    dev: false
+
+  /python@0.0.4:
+    resolution: {integrity: sha512-7avKA/6XxrwcGSDes8xGn7FHAUdAUQXKHtpjDulyv5/nm7TcPblmPRvXjjwx5knWHqeRiipqH/TZR2HhmJ4CGQ==}
+    engines: {node: '>= 0.4.1'}
+    dev: false
