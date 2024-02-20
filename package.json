@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "keyboard": "^0.0.1",
     "python": "3.11.8"
   }
 }
